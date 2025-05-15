@@ -1,0 +1,80 @@
+.logonavbar{
+    height: 65px;
+}
+
+.fundo-navbar{
+    background-color: black;
+}
+
+.flex{
+    background-color: black;
+}
+
+.titulo-navbar{
+    color: white;
+    font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: 900;
+  font-style:italic;
+}
+
+.texto-navbar-opcoes{
+    color: white;
+    font-family: "Dancing Script", cursive;
+  font-size: 25px;
+  font-style:normal;
+
+}
+
+.fundo-botao-navbar{
+    background:linear-gradient(rgb(255, 180, 83), rgb(122, 85, 15))
+}
+
+.margem{
+    margin-top: 90px ;
+}
+
+.titulo-section-heroes{
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    color: rgb(255, 180, 83);
+    text-shadow: 0px 2px 2px black;
+}
+
+.texto-subtitulo-section-heroes{
+    font-family: "Dancing Script", cursive;
+    font-size: 25px;
+}
+
+.img-section-heroes{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.tamanho{
+    height: 1000px;
+}
+.tamanho2{
+    height: 752px;
+    width: 600px;
+}
+
+.flex2{
+    text-align: center;
+    background-color: white;
+}
+
+.fundo-btn-grid{
+    background:linear-gradient(rgb(255, 180, 83), rgb(122, 85, 15));
+    font-family: "Dancing Script", cursive;
+    font-size: 25px;
+    color: white;
+
+}
+
+.centro{
+    text-align: center;
+}
+
+.flex3{
+    background-color: white;
+}
